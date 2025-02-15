@@ -3,7 +3,7 @@
 
 - 🔭 -I'm currently studying algorithms.
 
-- 👨‍💻 All of my projects are available at [https://portfolio-psi-six-75.vercel.app/](https://portfolio-psi-six-75.vercel.app/))
+- 👨‍💻 All of my projects are available at [https://portfolio-psi-six-75.vercel.app/](https://portfolio-psi-six-75.vercel.app/)
 
 - 📫 How to reach me **jjyy0804@naver.com**
 
