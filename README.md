@@ -3,7 +3,7 @@
 
 - 🔭 -I'm currently studying algorithms.
 
-- 👨‍💻 All of my projects are available at [https://www.notion.so/Portpolio-d300daa1d9d54e6ab7b21296071651da?pvs=4](https://www.notion.so/Portpolio-d300daa1d9d54e6ab7b21296071651da?pvs=4)
+- 👨‍💻 All of my projects are available at [https://portfolio-psi-six-75.vercel.app/](https://portfolio-psi-six-75.vercel.app/))
 
 - 📫 How to reach me **jjyy0804@naver.com**
 
