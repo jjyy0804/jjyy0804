@@ -1,23 +1,33 @@
-<h1 align="left">Hi 👋, I'm joo young</h1>
-<h3 align="left">My dream is to be a communicative frontend developer</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/65a7b148-678d-4b01-803e-33604690558c" alt="project" width="150" height="150"/>
+</p>
 
-- 🔭 -I'm currently studying algorithms.
+## ✨About Me
+- 가천대학교 컴퓨터공학과 졸업
 
-- 👨‍💻 All of my projects are available at [https://wealthy-galliform-cb6.notion.site/Portfolio-d300daa1d9d54e6ab7b21296071651da](https://wealthy-galliform-cb6.notion.site/Portfolio-d300daa1d9d54e6ab7b21296071651da)
+<br>
 
-- 📫 How to reach me **jjyy0804@naver.com**
+## 📂Projects
 
-
-<h3 align="center">Languages and Tools</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-  <br>
+<div>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <br>
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
+
+<br>
+
+ - **사용자 위치 기반 반려동물 동반 장소 추천 서비스** / 24.12.17 - 25.01.08
+ - **취업 준비생을 위한 정보 공유 커뮤니티 서비스** / 24.11.12 - 24.11.25 
+ - **팀 별 프로젝트 일정 관리 서비스** / 24.10.07 - 24.10.21
+
+<br>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jjyy0804&show_icons=true&title_color=FF6675&icon_color=FF6675&text_color=FFd2d7&bg_color=ffffff)
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/jjyy0804?pet-id=653919349032254330" width="1000" height="100"/>
+</a>
