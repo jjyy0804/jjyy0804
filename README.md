@@ -29,9 +29,7 @@
 <div align="center">
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jjyy0804&show_icons=true&title_color=FF6675&icon_color=FF6675&text_color=FFd2d7&bg_color=ffffff)
-<a href="https://github.com/devxb/gitanimals" >
-  <img src="https://render.gitanimals.org/lines/jjyy0804?pet-id=653919349032254330" width="1000" height="100"/>
-</a>  
+
 
 </div>
 
